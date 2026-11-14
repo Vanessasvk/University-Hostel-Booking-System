@@ -1,0 +1,78 @@
+
+---
+name: Bug Report
+about: Report a software defect or unexpected system behaviour
+title: '[BUG] '
+labels: bug, needs-investigation
+assignees: ''
+---
+
+# Bug Report
+
+## 1. Reporter Information
+
+| **Field** | **Details** |
+|---|---|
+| **Reported By** | |
+| **Date Reported** | |
+| **Affected Subsystem** | |
+
+---
+
+## 2. Bug Description
+
+<!-- Clearly describe the problem -->
+
+---
+
+## 3. Steps to Reproduce
+
+1.
+2.
+3.
+
+---
+
+## 4. Expected Behaviour
+
+<!-- What should happen? -->
+
+---
+
+## 5. Actual Behaviour
+
+<!-- What actually happened? -->
+
+---
+
+## 6. Environment
+
+| **Field** | **Details** |
+|---|---|
+| **Browser** | |
+| **Operating System** | |
+| **Device** | |
+| **Application Version** | |
+
+---
+
+## 7. Severity
+
+Select the severity level of the reported bug:
+
+- [ ] Critical
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+---
+
+## 8. Supporting Evidence
+
+<!-- Attach screenshots, error messages or logs -->
+
+---
+
+## 9. Additional Information
+
+<!-- Any other relevant details -->
